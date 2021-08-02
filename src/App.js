@@ -44,7 +44,7 @@ const AppLayout = ({ children }) => (
           style={{ lineHeight: '64px' }}
         >
           <Menu.Item key="1">
-            <a href="https://github.com/ybashir/">
+            <a href="https://github.com/ybashir/hn-dashboard">
             <GithubOutlined />&nbsp;
               Github
             </a>
