@@ -1,0 +1,12 @@
+.legend-label{
+    font-size: 12px;
+    width:180px;
+    vertical-align:top
+  }
+  .legend-box{
+    height:12px;
+    width:12px;
+    background-color: #61dafb;
+    margin: 0 0.5em 0 0;
+    opacity: 0.6;
+  }
