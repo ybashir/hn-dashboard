@@ -1,4 +1,4 @@
-# A mashup of Ant's react components and react imlplementation of a D3 viz
+# A mashup of Ant's react components and class based react component implementation of a D3 viz
 
 This is a wrapper around the maestro Mike Bostock's bar chart race implementation on observable which you can find here:
 
