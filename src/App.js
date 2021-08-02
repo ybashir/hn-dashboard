@@ -132,10 +132,11 @@ function App() {
       <AppLayout>
           <Dashboard
            
-            onDateRangeChange={dateRange =>
-              setDateRange(dateRange)
-            }
-            
+            onDateRangeChange={dateRange => {
+                if (dateRange[0] !== "" && dateRange[1] !== "") {
+                  setDateRange(dateRange);
+                };
+            }}
           >
             <DashboardItem size={24} title="Most popular tech keywords in HN job ads">
                 <BarChartRace 
