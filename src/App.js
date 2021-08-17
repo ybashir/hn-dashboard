@@ -77,7 +77,7 @@ const Dashboard = ({ children, onPreAggChange, onDateRangeChange, onCategoryChan
         onChange={(date, dateString) => onDateRangeChange(dateString)}
         defaultValue={[
           moment("2014/01/01", "YYYY/MM/DD"),
-          moment("2021/06/01", "YYYY/MM/DD")
+          moment("2021/08/01", "YYYY/MM/DD")
         ]}
       />
     </Col>
