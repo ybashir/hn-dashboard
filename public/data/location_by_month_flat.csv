@@ -20682,3 +20682,504 @@
 20680,2021-08-01,1,Whangarei,New Zealand
 20681,2021-08-01,1,York,United States
 20682,2021-08-01,7,Zurich,Switzerland
+20683,2021-09-01,4,,Argentina
+20684,2021-09-01,10,,Australia
+20685,2021-09-01,4,,Austria
+20686,2021-09-01,1,,Azerbaijan
+20687,2021-09-01,2,,Belarus
+20688,2021-09-01,1,,Belgium
+20689,2021-09-01,4,,Brazil
+20690,2021-09-01,2,,Bulgaria
+20691,2021-09-01,1,,Burma
+20692,2021-09-01,56,,Canada
+20693,2021-09-01,1,,Chile
+20694,2021-09-01,2,,China
+20695,2021-09-01,3,,Denmark
+20696,2021-09-01,1,,Estonia
+20697,2021-09-01,2,,Finland
+20698,2021-09-01,3,,France
+20699,2021-09-01,12,,Germany
+20700,2021-09-01,1,,Greece
+20701,2021-09-01,2,,Haiti
+20702,2021-09-01,2,,Hungary
+20703,2021-09-01,13,,India
+20704,2021-09-01,2,,Indonesia
+20705,2021-09-01,4,,Ireland
+20706,2021-09-01,2,,Israel
+20707,2021-09-01,2,,Italy
+20708,2021-09-01,1,,Japan
+20709,2021-09-01,1,,Jordan
+20710,2021-09-01,1,,Kenya
+20711,2021-09-01,1,,Lithuania
+20712,2021-09-01,1,,Madagascar
+20713,2021-09-01,1,,Malaysia
+20714,2021-09-01,1,,Mauritius
+20715,2021-09-01,5,,Mexico
+20716,2021-09-01,10,,Netherlands
+20717,2021-09-01,3,,New Zealand
+20718,2021-09-01,5,,Norway
+20719,2021-09-01,1,,Pakistan
+20720,2021-09-01,1,,Philippines
+20721,2021-09-01,10,,Poland
+20722,2021-09-01,5,,Portugal
+20723,2021-09-01,2,,Romania
+20724,2021-09-01,1,,Senegal
+20725,2021-09-01,1,,Serbia
+20726,2021-09-01,3,,Singapore
+20727,2021-09-01,1,,South Africa
+20728,2021-09-01,4,,Spain
+20729,2021-09-01,1,,Sri Lanka
+20730,2021-09-01,1,,Sweden
+20731,2021-09-01,4,,Switzerland
+20732,2021-09-01,2,,Taiwan
+20733,2021-09-01,1,,Thailand
+20734,2021-09-01,1,,Turkey
+20735,2021-09-01,4,,Ukraine
+20736,2021-09-01,3,,United Kingdom
+20737,2021-09-01,14,,United States
+20738,2021-09-01,1,,Venezuela
+20739,2021-09-01,1,,Vietnam
+20740,2021-09-01,1,Aarhus,Denmark
+20741,2021-09-01,2,Adrian,United States
+20742,2021-09-01,1,Agri,Turkey
+20743,2021-09-01,1,Alliance,United States
+20744,2021-09-01,1,Aloha,United States
+20745,2021-09-01,16,Amsterdam,Netherlands
+20746,2021-09-01,1,Anderson,United States
+20747,2021-09-01,1,Apex,United States
+20748,2021-09-01,7,Atlanta,United States
+20749,2021-09-01,1,Auckland,New Zealand
+20750,2021-09-01,3,Aurora,United States
+20751,2021-09-01,29,Austin,United States
+20752,2021-09-01,1,Baltimore,United States
+20753,2021-09-01,3,Barcelona,Spain
+20754,2021-09-01,1,Beijing,China
+20755,2021-09-01,1,Bell,United States
+20756,2021-09-01,1,Bellevue,United States
+20757,2021-09-01,1,Bellingham,United States
+20758,2021-09-01,1,Bend,United States
+20759,2021-09-01,1,Bengaluru,India
+20760,2021-09-01,5,Berkeley,United States
+20761,2021-09-01,32,Berlin,Germany
+20762,2021-09-01,1,Boca Raton,United States
+20763,2021-09-01,1,Bonn,Germany
+20764,2021-09-01,26,Boston,United States
+20765,2021-09-01,9,Boulder,United States
+20766,2021-09-01,4,Bristol,United Kingdom
+20767,2021-09-01,1,Bryan,United States
+20768,2021-09-01,3,Budapest,Hungary
+20769,2021-09-01,3,Cambridge,United Kingdom
+20770,2021-09-01,9,Cambridge,United States
+20771,2021-09-01,1,Camden,United States
+20772,2021-09-01,1,Campbell,United States
+20773,2021-09-01,1,Cape Town,South Africa
+20774,2021-09-01,1,Carlsbad,United States
+20775,2021-09-01,1,Champaign,United States
+20776,2021-09-01,1,Chandler,United States
+20777,2021-09-01,4,Charlotte,United States
+20778,2021-09-01,1,Chattanooga,United States
+20779,2021-09-01,1,Chennai,India
+20780,2021-09-01,1,Chester,United Kingdom
+20781,2021-09-01,15,Chicago,United States
+20782,2021-09-01,1,Cincinnati,United States
+20783,2021-09-01,2,Clay,United States
+20784,2021-09-01,1,Coimbatore,India
+20785,2021-09-01,2,Colorado Springs,United States
+20786,2021-09-01,1,Colton,United States
+20787,2021-09-01,1,Columbia,United States
+20788,2021-09-01,4,Copenhagen,Denmark
+20789,2021-09-01,1,Cupertino,United States
+20790,2021-09-01,5,Cypress,United States
+20791,2021-09-01,5,Dallas,United States
+20792,2021-09-01,6,David,Panama
+20793,2021-09-01,1,Davis,United States
+20794,2021-09-01,9,Denver,United States
+20795,2021-09-01,1,Detroit,United States
+20796,2021-09-01,2,Douglas,Isle Of Man
+20797,2021-09-01,3,Dubai,United Arab Emirates
+20798,2021-09-01,6,Dublin,Ireland
+20799,2021-09-01,1,Duluth,United States
+20800,2021-09-01,3,Durham,United States
+20801,2021-09-01,4,Edinburgh,United Kingdom
+20802,2021-09-01,2,Elk,Poland
+20803,2021-09-01,1,Fargo,United States
+20804,2021-09-01,1,Florence,Italy
+20805,2021-09-01,1,Florida,Uruguay
+20806,2021-09-01,1,Fort Worth,United States
+20807,2021-09-01,1,Framingham,United States
+20808,2021-09-01,3,Frankfurt,Germany
+20809,2021-09-01,1,Franklin,United States
+20810,2021-09-01,2,Fremont,United States
+20811,2021-09-01,1,Gary,United States
+20812,2021-09-01,1,Gent,Belgium
+20813,2021-09-01,1,George,South Africa
+20814,2021-09-01,1,Grand Rapids,United States
+20815,2021-09-01,9,Greenfield,United States
+20816,2021-09-01,1,Grenoble,France
+20817,2021-09-01,1,Gurgaon,India
+20818,2021-09-01,1,Halifax,Canada
+20819,2021-09-01,3,Hamburg,Germany
+20820,2021-09-01,5,Helsinki,Finland
+20821,2021-09-01,3,Hollywood,United States
+20822,2021-09-01,4,Hong Kong,Hong Kong
+20823,2021-09-01,1,Hoover,United States
+20824,2021-09-01,5,Houston,United States
+20825,2021-09-01,1,Hyderabad,India
+20826,2021-09-01,3,Independence,United States
+20827,2021-09-01,1,Indianapolis,United States
+20828,2021-09-01,3,Irvine,United States
+20829,2021-09-01,1,Irving,United States
+20830,2021-09-01,1,Johannesburg,South Africa
+20831,2021-09-01,1,Kampala,Uganda
+20832,2021-09-01,1,Karlsruhe,Germany
+20833,2021-09-01,1,Kathmandu,Nepal
+20834,2021-09-01,1,Kearney,United States
+20835,2021-09-01,1,Keller,United States
+20836,2021-09-01,2,Kelowna,Canada
+20837,2021-09-01,1,Kharkiv,Ukraine
+20838,2021-09-01,1,Krakow,Poland
+20839,2021-09-01,1,Leeds,United Kingdom
+20840,2021-09-01,1,Leesburg,United States
+20841,2021-09-01,1,Lille,France
+20842,2021-09-01,1,Lisbon,Portugal
+20843,2021-09-01,44,London,United Kingdom
+20844,2021-09-01,1,Long Beach,United States
+20845,2021-09-01,21,Los Angeles,United States
+20846,2021-09-01,2,Louisville,United States
+20847,2021-09-01,1,Madison,United States
+20848,2021-09-01,1,Mainz,Germany
+20849,2021-09-01,1,Male,Maldives
+20850,2021-09-01,2,Man,Côte D’Ivoire
+20851,2021-09-01,3,Manchester,United Kingdom
+20852,2021-09-01,1,Medford,United States
+20853,2021-09-01,6,Melbourne,Australia
+20854,2021-09-01,2,Memphis,United States
+20855,2021-09-01,2,Menlo Park,United States
+20856,2021-09-01,7,Mentor,United States
+20857,2021-09-01,1,Mercedes,Argentina
+20858,2021-09-01,1,Mexico City,Mexico
+20859,2021-09-01,3,Miami,United States
+20860,2021-09-01,1,Milwaukee,United States
+20861,2021-09-01,2,Minneapolis,United States
+20862,2021-09-01,1,Montana,Bulgaria
+20863,2021-09-01,1,Monterrey,Mexico
+20864,2021-09-01,5,Montreal,Canada
+20865,2021-09-01,1,Moorhead,United States
+20866,2021-09-01,2,Moscow,Russia
+20867,2021-09-01,4,Mountain View,United States
+20868,2021-09-01,3,Mumbai,India
+20869,2021-09-01,5,Munich,Germany
+20870,2021-09-01,1,Nairobi,Kenya
+20871,2021-09-01,1,Nantes,France
+20872,2021-09-01,1,New Haven,United States
+20873,2021-09-01,94,New York,United States
+20874,2021-09-01,1,Newark,United States
+20875,2021-09-01,2,Normal,United States
+20876,2021-09-01,2,Norwalk,United States
+20877,2021-09-01,5,Oakland,United States
+20878,2021-09-01,1,Ontario,United States
+20879,2021-09-01,2,Orange,United States
+20880,2021-09-01,5,Oslo,Norway
+20881,2021-09-01,2,Ottawa,Canada
+20882,2021-09-01,1,Oxford,United Kingdom
+20883,2021-09-01,10,Palo Alto,United States
+20884,2021-09-01,1,Paramount,United States
+20885,2021-09-01,10,Paris,France
+20886,2021-09-01,3,Parker,United States
+20887,2021-09-01,5,Philadelphia,United States
+20888,2021-09-01,10,Phoenix,United States
+20889,2021-09-01,4,Pittsburgh,United States
+20890,2021-09-01,1,Pleasanton,United States
+20891,2021-09-01,1,Plovdiv,Bulgaria
+20892,2021-09-01,4,Portland,United States
+20893,2021-09-01,1,Potsdam,Germany
+20894,2021-09-01,3,Prague,Czechia
+20895,2021-09-01,1,Princeton,United States
+20896,2021-09-01,1,Puebla,Mexico
+20897,2021-09-01,5,Pune,India
+20898,2021-09-01,2,Raleigh,United States
+20899,2021-09-01,6,Reading,United Kingdom
+20900,2021-09-01,2,Redwood City,United States
+20901,2021-09-01,1,Rochester,United States
+20902,2021-09-01,1,Rockville,United States
+20903,2021-09-01,1,Rosenberg,United States
+20904,2021-09-01,1,Rotterdam,Netherlands
+20905,2021-09-01,1,Sacramento,United States
+20906,2021-09-01,2,Salt Lake City,United States
+20907,2021-09-01,1,San,Mali
+20908,2021-09-01,5,San Diego,United States
+20909,2021-09-01,127,San Francisco,United States
+20910,2021-09-01,5,San Mateo,United States
+20911,2021-09-01,1,Santa Barbara,United States
+20912,2021-09-01,1,Santa Clara,United States
+20913,2021-09-01,1,Santa Cruz,United States
+20914,2021-09-01,4,Santa Monica,United States
+20915,2021-09-01,1,Sao Paulo,Brazil
+20916,2021-09-01,28,Seattle,United States
+20917,2021-09-01,2,Shanghai,China
+20918,2021-09-01,5,Singapore,Singapore
+20919,2021-09-01,2,Sofia,Bulgaria
+20920,2021-09-01,1,Somerville,United States
+20921,2021-09-01,2,Split,Croatia
+20922,2021-09-01,1,Stanton,United States
+20923,2021-09-01,6,Stockholm,Sweden
+20924,2021-09-01,1,Stuttgart,Germany
+20925,2021-09-01,1,Suez,Egypt
+20926,2021-09-01,1,Sunnyvale,United States
+20927,2021-09-01,4,Surprise,United States
+20928,2021-09-01,4,Sydney,Australia
+20929,2021-09-01,1,Taylor,United States
+20930,2021-09-01,1,Tempe,United States
+20931,2021-09-01,1,The Woodlands,United States
+20932,2021-09-01,6,Tokyo,Japan
+20933,2021-09-01,18,Toronto,Canada
+20934,2021-09-01,1,Toulouse,France
+20935,2021-09-01,2,Tyler,United States
+20936,2021-09-01,1,Union,United States
+20937,2021-09-01,13,University,United States
+20938,2021-09-01,1,Valencia,Spain
+20939,2021-09-01,9,Vancouver,Canada
+20940,2021-09-01,1,Venice,Italy
+20941,2021-09-01,4,Vienna,Austria
+20942,2021-09-01,2,Vilnius,Lithuania
+20943,2021-09-01,1,Wa,Ghana
+20944,2021-09-01,2,Warsaw,Poland
+20945,2021-09-01,7,Washington,United States
+20946,2021-09-01,1,Waterloo,United States
+20947,2021-09-01,1,York,United States
+20948,2021-09-01,2,Zurich,Switzerland
+20949,2021-10-01,1,,Argentina
+20950,2021-10-01,4,,Australia
+20951,2021-10-01,4,,Austria
+20952,2021-10-01,1,,Belgium
+20953,2021-10-01,4,,Brazil
+20954,2021-10-01,1,,Burma
+20955,2021-10-01,49,,Canada
+20956,2021-10-01,1,,Chile
+20957,2021-10-01,3,,China
+20958,2021-10-01,2,,Colombia
+20959,2021-10-01,1,,Croatia
+20960,2021-10-01,1,,Denmark
+20961,2021-10-01,1,,Estonia
+20962,2021-10-01,2,,Finland
+20963,2021-10-01,4,,France
+20964,2021-10-01,9,,Germany
+20965,2021-10-01,1,,Greece
+20966,2021-10-01,1,,Hong Kong
+20967,2021-10-01,2,,Hungary
+20968,2021-10-01,10,,India
+20969,2021-10-01,1,,Indonesia
+20970,2021-10-01,4,,Ireland
+20971,2021-10-01,2,,Israel
+20972,2021-10-01,3,,Italy
+20973,2021-10-01,3,,Japan
+20974,2021-10-01,1,,Madagascar
+20975,2021-10-01,1,,Malaysia
+20976,2021-10-01,2,,Mexico
+20977,2021-10-01,7,,Netherlands
+20978,2021-10-01,2,,New Zealand
+20979,2021-10-01,4,,Norway
+20980,2021-10-01,1,,Pakistan
+20981,2021-10-01,6,,Poland
+20982,2021-10-01,3,,Portugal
+20983,2021-10-01,1,,Romania
+20984,2021-10-01,3,,Russia
+20985,2021-10-01,2,,Singapore
+20986,2021-10-01,1,,South Africa
+20987,2021-10-01,3,,Spain
+20988,2021-10-01,1,,Sweden
+20989,2021-10-01,4,,Switzerland
+20990,2021-10-01,2,,Taiwan
+20991,2021-10-01,1,,Turkey
+20992,2021-10-01,2,,Ukraine
+20993,2021-10-01,1,,United Arab Emirates
+20994,2021-10-01,1,,United Kingdom
+20995,2021-10-01,15,,United States
+20996,2021-10-01,1,,Venezuela
+20997,2021-10-01,1,Aarhus,Denmark
+20998,2021-10-01,1,Adrian,United States
+20999,2021-10-01,1,Agen,France
+21000,2021-10-01,1,Alameda,United States
+21001,2021-10-01,2,Alliance,United States
+21002,2021-10-01,1,Amol,Iran
+21003,2021-10-01,14,Amsterdam,Netherlands
+21004,2021-10-01,1,Ann Arbor,United States
+21005,2021-10-01,1,Apex,United States
+21006,2021-10-01,1,Arlington,United States
+21007,2021-10-01,8,Atlanta,United States
+21008,2021-10-01,2,Auckland,New Zealand
+21009,2021-10-01,6,Aurora,United States
+21010,2021-10-01,30,Austin,United States
+21011,2021-10-01,3,Baltimore,United States
+21012,2021-10-01,4,Barcelona,Spain
+21013,2021-10-01,2,Bell,United States
+21014,2021-10-01,3,Bellevue,United States
+21015,2021-10-01,1,Bellingham,United States
+21016,2021-10-01,4,Berkeley,United States
+21017,2021-10-01,27,Berlin,Germany
+21018,2021-10-01,26,Boston,United States
+21019,2021-10-01,3,Boulder,United States
+21020,2021-10-01,1,Bozeman,United States
+21021,2021-10-01,1,Brisbane,Australia
+21022,2021-10-01,2,Bristol,United Kingdom
+21023,2021-10-01,5,Budapest,Hungary
+21024,2021-10-01,1,Calgary,Canada
+21025,2021-10-01,4,Cambridge,United Kingdom
+21026,2021-10-01,4,Cambridge,United States
+21027,2021-10-01,1,Campbell,United States
+21028,2021-10-01,1,Canberra,Australia
+21029,2021-10-01,1,Carolina,Puerto Rico
+21030,2021-10-01,1,Champaign,United States
+21031,2021-10-01,1,Chandler,United States
+21032,2021-10-01,2,Charlotte,United States
+21033,2021-10-01,2,Chattanooga,United States
+21034,2021-10-01,2,Chennai,India
+21035,2021-10-01,14,Chicago,United States
+21036,2021-10-01,1,Clay,United States
+21037,2021-10-01,1,Coimbatore,India
+21038,2021-10-01,1,Colton,United States
+21039,2021-10-01,1,Columbia,United States
+21040,2021-10-01,1,Concord,United States
+21041,2021-10-01,4,Copenhagen,Denmark
+21042,2021-10-01,6,Cypress,United States
+21043,2021-10-01,3,Dallas,United States
+21044,2021-10-01,3,David,Panama
+21045,2021-10-01,1,Dearborn,United States
+21046,2021-10-01,5,Denver,United States
+21047,2021-10-01,1,Detroit,United States
+21048,2021-10-01,1,Douglas,Isle Of Man
+21049,2021-10-01,1,Dubai,United Arab Emirates
+21050,2021-10-01,4,Dublin,Ireland
+21051,2021-10-01,4,Durham,United States
+21052,2021-10-01,4,Edinburgh,United Kingdom
+21053,2021-10-01,1,Eindhoven,Netherlands
+21054,2021-10-01,2,Elk,Poland
+21055,2021-10-01,1,Fargo,United States
+21056,2021-10-01,1,Fayetteville,United States
+21057,2021-10-01,2,Florida,Uruguay
+21058,2021-10-01,1,Fort Worth,United States
+21059,2021-10-01,1,Framingham,United States
+21060,2021-10-01,1,Franklin,United States
+21061,2021-10-01,1,Fremont,United States
+21062,2021-10-01,1,Gary,United States
+21063,2021-10-01,1,Geneva,Switzerland
+21064,2021-10-01,1,Glasgow,United Kingdom
+21065,2021-10-01,3,Greenfield,United States
+21066,2021-10-01,1,Grenoble,France
+21067,2021-10-01,1,Gurgaon,India
+21068,2021-10-01,1,Halifax,Canada
+21069,2021-10-01,3,Hamburg,Germany
+21070,2021-10-01,1,Hamilton,Canada
+21071,2021-10-01,1,Hanover,United States
+21072,2021-10-01,3,Helsinki,Finland
+21073,2021-10-01,1,Hollywood,United States
+21074,2021-10-01,1,Hong Kong,Hong Kong
+21075,2021-10-01,2,Houston,United States
+21076,2021-10-01,1,Hyderabad,India
+21077,2021-10-01,3,Independence,United States
+21078,2021-10-01,1,Indianapolis,United States
+21079,2021-10-01,2,Irvine,United States
+21080,2021-10-01,1,Jupiter,United States
+21081,2021-10-01,1,Karlsruhe,Germany
+21082,2021-10-01,1,Katowice,Poland
+21083,2021-10-01,1,Kelowna,Canada
+21084,2021-10-01,1,Kyle,United States
+21085,2021-10-01,1,Lafayette,United States
+21086,2021-10-01,1,Leeds,United Kingdom
+21087,2021-10-01,1,Leesburg,United States
+21088,2021-10-01,1,Lehi,United States
+21089,2021-10-01,1,Liberty,United States
+21090,2021-10-01,44,London,United Kingdom
+21091,2021-10-01,15,Los Angeles,United States
+21092,2021-10-01,1,Louisville,United States
+21093,2021-10-01,2,Madison,United States
+21094,2021-10-01,2,Man,Côte D’Ivoire
+21095,2021-10-01,2,Manchester,United Kingdom
+21096,2021-10-01,1,Medellin,Colombia
+21097,2021-10-01,3,Melbourne,Australia
+21098,2021-10-01,2,Menlo Park,United States
+21099,2021-10-01,7,Mentor,United States
+21100,2021-10-01,2,Miami,United States
+21101,2021-10-01,1,Middletown,United States
+21102,2021-10-01,1,Minneapolis,United States
+21103,2021-10-01,1,Montana,Bulgaria
+21104,2021-10-01,11,Montreal,Canada
+21105,2021-10-01,3,Mountain View,United States
+21106,2021-10-01,2,Mumbai,India
+21107,2021-10-01,7,Munich,Germany
+21108,2021-10-01,1,Nairobi,Kenya
+21109,2021-10-01,1,Nantes,France
+21110,2021-10-01,1,Nelson,New Zealand
+21111,2021-10-01,1,New Haven,United States
+21112,2021-10-01,2,New Orleans,United States
+21113,2021-10-01,84,New York,United States
+21114,2021-10-01,5,Normal,United States
+21115,2021-10-01,1,Numan,Nigeria
+21116,2021-10-01,4,Oakland,United States
+21117,2021-10-01,1,Oral,Kazakhstan
+21118,2021-10-01,1,Orange,United States
+21119,2021-10-01,1,Orlando,United States
+21120,2021-10-01,6,Oslo,Norway
+21121,2021-10-01,2,Ottawa,Canada
+21122,2021-10-01,7,Palo Alto,United States
+21123,2021-10-01,1,Paradise,United States
+21124,2021-10-01,9,Paris,France
+21125,2021-10-01,3,Parker,United States
+21126,2021-10-01,4,Philadelphia,United States
+21127,2021-10-01,7,Phoenix,United States
+21128,2021-10-01,3,Pittsburgh,United States
+21129,2021-10-01,1,Pleasanton,United States
+21130,2021-10-01,1,Portland,United States
+21131,2021-10-01,2,Prague,Czechia
+21132,2021-10-01,1,Princeton,United States
+21133,2021-10-01,1,Puebla,Mexico
+21134,2021-10-01,2,Pune,India
+21135,2021-10-01,1,Quebec,Canada
+21136,2021-10-01,1,Raleigh,United States
+21137,2021-10-01,9,Reading,United Kingdom
+21138,2021-10-01,1,Redwood City,United States
+21139,2021-10-01,1,Rosenberg,United States
+21140,2021-10-01,1,Sacramento,United States
+21141,2021-10-01,1,Saint John,Canada
+21142,2021-10-01,2,Salt Lake City,United States
+21143,2021-10-01,1,San,Mali
+21144,2021-10-01,5,San Diego,United States
+21145,2021-10-01,105,San Francisco,United States
+21146,2021-10-01,1,San Jose,United States
+21147,2021-10-01,4,San Mateo,United States
+21148,2021-10-01,1,Sandy,United States
+21149,2021-10-01,1,Santa Barbara,United States
+21150,2021-10-01,4,Santa Monica,United States
+21151,2021-10-01,1,Sao Paulo,Brazil
+21152,2021-10-01,27,Seattle,United States
+21153,2021-10-01,1,Seoul,"Korea, South"
+21154,2021-10-01,2,Shanghai,China
+21155,2021-10-01,1,Shenzhen,China
+21156,2021-10-01,4,Singapore,Singapore
+21157,2021-10-01,1,Skien,Norway
+21158,2021-10-01,1,Sofia,Bulgaria
+21159,2021-10-01,2,Somerville,United States
+21160,2021-10-01,2,South San Francisco,United States
+21161,2021-10-01,1,Split,Croatia
+21162,2021-10-01,1,St. Petersburg,United States
+21163,2021-10-01,5,Stockholm,Sweden
+21164,2021-10-01,2,Stuttgart,Germany
+21165,2021-10-01,1,Sunnyvale,United States
+21166,2021-10-01,3,Surprise,United States
+21167,2021-10-01,3,Sydney,Australia
+21168,2021-10-01,1,Taylor,United States
+21169,2021-10-01,2,Tokyo,Japan
+21170,2021-10-01,14,Toronto,Canada
+21171,2021-10-01,1,Toulouse,France
+21172,2021-10-01,1,Tours,France
+21173,2021-10-01,1,Turbo,Colombia
+21174,2021-10-01,1,Union,United States
+21175,2021-10-01,10,University,United States
+21176,2021-10-01,1,Valencia,Spain
+21177,2021-10-01,10,Vancouver,Canada
+21178,2021-10-01,3,Vienna,Austria
+21179,2021-10-01,2,Wa,Ghana
+21180,2021-10-01,1,Warsaw,Poland
+21181,2021-10-01,7,Washington,United States
+21182,2021-10-01,1,York,United States
+21183,2021-10-01,1,Zurich,Switzerland
