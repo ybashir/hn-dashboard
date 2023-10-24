@@ -66,7 +66,7 @@ const Dashboard = ({
         onChange={(date, dateString) => onDateRangeChange(dateString)}
         defaultValue={[
           moment("2014/01/01", "YYYY/MM/DD"),
-          moment("2022/11/01", "YYYY/MM/DD"),
+          moment("2023/10/01", "YYYY/MM/DD"),
         ]}
       />
     </Col>
